@@ -35,6 +35,8 @@
 ![image](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![image](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Hyeon-Lee&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

@@ -30,7 +30,10 @@
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 
 ### 🥝 Tools
-
+![image](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![image](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Hyeon-Lee&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

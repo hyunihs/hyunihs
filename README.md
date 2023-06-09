@@ -2,8 +2,8 @@
 
 ### 🗓 History
 <li> 이화여자대학교 컴퓨터공학전공<sub>(2020.03 ~ )</sub></li>
-<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 BE 파트 <sub>(2022.09 ~ 2022.02)</sub></li>
-<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 17기 BE 파트장 <sub>(2022.03 ~ )</sub></li>
+<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 Backend 파트 <sub>(2022.09 ~ 2022.02)</sub></li>
+<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 17기 Backend 파트장 <sub>(2022.03 ~ )</sub></li>
 <br>
 <li> 손글씨 텍스트 메모 변환 프로젝트 <a href="https://github.com/2022-AI-FullStack-Internship-TeamB/NCTE">NCTE</a> Backend, AI 개발 <sub>(2022.06 ~ 2023.07)</sub></li>
 <li> 주식 초보를 위한 주식 포트폴리오 관리 서비스 <a href="https://github.com/finble-dev">Finble</a>의 <a href="https://github.com/finble-dev/Finble-BE">Backend</a> 개발 <sub>(2022.11 ~ 2023.03)</sub></li>

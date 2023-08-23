@@ -4,7 +4,8 @@
 <li> 이화여자대학교 컴퓨터공학전공<sub>(2020.03 ~ )</sub></li>
 <!--<li> 이화여자대학교 알고리즘 스터디 동아리 EDOC <sub>(2021.06 ~ 2022.06)</sub></li>-->
 <li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 Backend 파트 <sub>(2022.09 ~ 2022.02)</sub></li>
-<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 17기 Backend 파트장 <sub>(2022.03 ~ )</sub></li>
+<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 17기 Backend 파트장 <sub>(2022.03 ~ 2022.08)</sub></li>
+<li> 신촌 지역 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 18기 공동회장 <sub>(2022.08 ~ )</sub></li>
 
 ### 🥥 Projects
 <!--<li> 손글씨 텍스트 메모 변환 프로젝트 <a href="https://github.com/2022-AI-FullStack-Internship-TeamB/NCTE">NCTE</a> Backend, AI 개발 <sub>(2022.06 ~ 2023.07)</sub></li>-->

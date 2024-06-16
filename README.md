@@ -12,7 +12,7 @@
 <li> CEOS 공식 홈페이지 <a href="https://github.com/CEOS-Developers/CEOS-BE">Backend</a> 개발 <sub>(2023.05 ~ 2024.02)</sub></li>
 <li> 진단로직 기반 디지털 헬스케어 스타트업 헬시어(Healthier) Backend 개발 <sub>(2023.05 ~ 2024.02) *private repository</sub></li>
 <li> 지체 장애인을 위한 운동 추천 및 스케줄 관리 서비스 <a href="https://github.com/Solution-Challenge-HMH">EveryHealth</a>의 <a href="https://github.com/Solution-Challenge-HMH/every-health-backend">Backend</a> 개발 (for Google Solution Challenge 2024) <sub>(2024.01 ~ 2024.02)</sub></li>
-<li> 중고 의류 거래 플랫폼 Repick의 <a href="https://github.com/Repick-official/repick-server-v2">Backend</a> 개발 <sub>(2024.04 ~ )</sub></li>
+<li> 중고 의류 위탁 판매 플랫폼 Repick의 <a href="https://github.com/Repick-official/repick-server-v2">Backend</a> 개발 <sub>(2024.04 ~ )</sub></li>
 
 ### 🥥 Skills
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
